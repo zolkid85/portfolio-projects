@@ -58,7 +58,7 @@ invoicing, suppliers, inventory, and accounting.
 
 <table>
 <tr>
-<td><img src="assets/pharmacy/login.PNG" alt="Login"/></td>
+<td><img src="assets/pharmacy/login.png" alt="Login"/></td>
 <td><img src="assets/pharmacy/pharmacist-dashboard.png" alt="Dashboard"/></td>
 </tr>
 <tr>
@@ -79,14 +79,34 @@ and product ordering, with real-time delivery tracking.
 **Roles:** Client (browse, order, track) · Livreur (manage deliveries)
 
 **Highlights**
-- Pharmacy browsing with live product availability
-- Prescription upload and history
-- "Alternative products" suggestion when an item is out of stock
+- Pharmacy browsing with live product availability and urgency/on-call
+  pharmacy lookup ("Urgence Garde")
+- Cart, checkout, and delivery-address flow with multiple payment methods
+  (cash on delivery, mobile money, card — coming soon)
+- Order history with live status tracking (pending, cancelled, delivered)
+- Dedicated **Livreur (delivery)** view: map of available orders in
+  Niamey, per-order accept/refuse and pickup → destination flow, earnings
+  dashboard
 - Real-time push notifications (order status, delivery updates)
 - Secure payment verification flow
-- Light/dark theme support
 
-*(mobile screenshots coming soon)*
+<table>
+<tr>
+<td><img src="assets/pharmaswift/login.png" alt="Login"/></td>
+<td><img src="assets/pharmaswift/home.png" alt="Home"/></td>
+<td><img src="assets/pharmaswift/cart.png" alt="Cart"/></td>
+</tr>
+<tr>
+<td><img src="assets/pharmaswift/checkout.png" alt="Checkout"/></td>
+<td><img src="assets/pharmaswift/order-success.png" alt="Order success"/></td>
+<td><img src="assets/pharmaswift/orders-list.png" alt="Order history"/></td>
+</tr>
+<tr>
+<td><img src="assets/pharmaswift/delivery-dashboard.png" alt="Delivery dashboard"/></td>
+<td><img src="assets/pharmaswift/delivery-order-detail.png" alt="Delivery order detail"/></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
