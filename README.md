@@ -92,7 +92,7 @@ and product ordering, with real-time delivery tracking.
 
 <table>
 <tr>
-<td><img src="assets/pharmaswift/login.png" alt="Login"/></td>
+<td><img src="assets/pharmaswift/LOGIN.png" alt="Login"/></td>
 <td><img src="assets/pharmaswift/home.png" alt="Home"/></td>
 <td><img src="assets/pharmaswift/cart.png" alt="Cart"/></td>
 </tr>
