@@ -58,7 +58,7 @@ invoicing, suppliers, inventory, and accounting.
 
 <table>
 <tr>
-
+<td><img src="assets/pharmacy/login.PNG" alt="Login"/></td>
 <td><img src="assets/pharmacy/pharmacist-dashboard.png" alt="Dashboard"/></td>
 </tr>
 <tr>
